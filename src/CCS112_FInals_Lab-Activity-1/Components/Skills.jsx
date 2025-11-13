@@ -5,7 +5,7 @@ function Skills() {
             <h3>Skills</h3>
             <ul className="skills-list">
                 <li>
-                    <img src="/assets1/git.png" alt="git"/>
+                    <img src="/assets1/Git.png" alt="git"/>
                 </li>
                 <li>
                     <img src="/assets1/Github.png" alt="github"/>
@@ -26,7 +26,7 @@ function Skills() {
                     <img src="/assets1/Php.png" alt="php"/>
                 </li>
                 <li>
-                    <img src="/assets1/bootstrap.png" alt="bootstrap"/>
+                    <img src="/assets1/Bootstrap.png" alt="bootstrap"/>
                 </li>
                 <li>
                     <img src="/assets1/Pico8.png" alt="pico8"/>
